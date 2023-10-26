@@ -14,3 +14,11 @@
 Quarex Sms Bomber Apiler bana ait değil
 discord: quarex12s
 YAKINDA SİTE HALİDE GELİCEK
+
+
+KURULUM
+
+< git clone https://github.com/CeyhunBey277/Quarex-Sms-Bomber
+< npm i
+ÇALIŞTIRMA KOMUTU
+< node index.js
